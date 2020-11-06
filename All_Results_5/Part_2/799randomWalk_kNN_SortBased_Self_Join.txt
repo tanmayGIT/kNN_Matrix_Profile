@@ -1,0 +1,12 @@
+The Number of kNN is 5 and time needed is : 1.532707e+02 
+The Number of kNN is 10 and time needed is : 1.710807e+02 
+The Number of kNN is 15 and time needed is : 1.816850e+02 
+The Number of kNN is 20 and time needed is : 2.068183e+02 
+The Number of kNN is 25 and time needed is : 2.231451e+02 
+The Number of kNN is 30 and time needed is : 2.468742e+02 
+The Number of kNN is 35 and time needed is : 2.893502e+02 
+The Number of kNN is 40 and time needed is : 3.272883e+02 
+The Number of kNN is 45 and time needed is : 3.024972e+02 
+The Number of kNN is 50 and time needed is : 3.304219e+02 
+The Number of kNN is 55 and time needed is : 3.540374e+02 
+The Number of kNN is 60 and time needed is : 3.720176e+02 

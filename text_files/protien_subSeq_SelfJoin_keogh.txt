@@ -1,0 +1,8 @@
+The sub-sequ length is 256 and time needed is : 1.377746e+04 
+The sub-sequ length is 356 and time needed is : 1.273223e+04 
+The sub-sequ length is 456 and time needed is : 1.290532e+04 
+The sub-sequ length is 556 and time needed is : 1.156504e+04 
+The sub-sequ length is 656 and time needed is : 1.259502e+04 
+The sub-sequ length is 756 and time needed is : 1.090465e+04 
+The sub-sequ length is 856 and time needed is : 1.179941e+04 
+The sub-sequ length is 956 and time needed is : 1.068816e+04 
