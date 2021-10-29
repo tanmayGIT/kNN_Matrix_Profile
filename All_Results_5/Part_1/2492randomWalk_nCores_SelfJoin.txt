@@ -1,0 +1,7 @@
+The Number of cores is 2 and time needed is : 2.317444e+03 
+The Number of cores is 7 and time needed is : 1.121811e+03 
+The Number of cores is 12 and time needed is : 9.544040e+02 
+The Number of cores is 17 and time needed is : 7.438643e+02 
+The Number of cores is 22 and time needed is : 6.841396e+02 
+The Number of cores is 27 and time needed is : 6.613419e+02 
+The Number of cores is 32 and time needed is : 7.097783e+02 

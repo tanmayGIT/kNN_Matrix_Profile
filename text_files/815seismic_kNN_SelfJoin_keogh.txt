@@ -1,0 +1,5 @@
+The Number of kNN is 10 and time needed is : 9.029101e+02 
+The Number of kNN is 30 and time needed is : 2.427053e+03 
+The Number of kNN is 50 and time needed is : 3.898595e+03 
+The Number of kNN is 70 and time needed is : 5.444736e+03 
+The Number of kNN is 90 and time needed is : 6.971375e+03 

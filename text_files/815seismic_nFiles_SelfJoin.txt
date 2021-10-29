@@ -1,0 +1,5 @@
+The Number of rows is 100 and time needed is : 2.325715e+01 
+The Number of rows is 300 and time needed is : 8.774199e+01 
+The Number of rows is 500 and time needed is : 1.813936e+02 
+The Number of rows is 700 and time needed is : 2.645398e+02 
+The Number of rows is 900 and time needed is : 5.444627e+02 
